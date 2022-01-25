@@ -1,1 +1,1 @@
-echo "wololoooasdasdasdasdad!!!!!!!!!!!!!!"
+echo "fgfhgj!!!!!!!!!!!!!!"
