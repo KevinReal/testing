@@ -1,8 +1,10 @@
 pipeline {
-  stages {
-    stage(wololo) {
-      agent any
-      step "sh wololo.sh"
+    agent any
+    stages {
+      stage ('wololo') {
+        steps {
+            sh "sh wololo.sh"
+        }   
+      }
     }
-  }
 }
