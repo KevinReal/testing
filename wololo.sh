@@ -1,1 +1,1 @@
-echo "wololooooooooooooooo!"
+echo "wololooo!"
